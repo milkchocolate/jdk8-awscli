@@ -1,0 +1,3 @@
+- docker build -t jdk8-awscli .
+- docker tag jdk8-awscli aaronyunan/jdk8-awscli
+- docker push aaronyunan/jdk8-awscli:latest
